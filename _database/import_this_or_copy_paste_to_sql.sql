@@ -11,5 +11,5 @@ CREATE TABLE `contact_list` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO `contact_list` (`id`, `phone_number`, `name`, `gender`, `email`, `address`) VALUES
-(1, '0861239123611', 'SimpleCodz', 'female', 'SimpleCodz@gmail.com', 'Indonesia'),
+(1, '0861239123611', 'Admin', 'female', 'admin@admin.com', 'Indonesia'),
 (2, '0812671657112', 'Chitanda Eru', 'female', 'eru.chitanda@gmail.co.jp', 'Okinawa');
